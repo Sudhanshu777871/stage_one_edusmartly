@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mainHead {
+  color: orangered;
+  text-align: center;
+}
+
+.paraAbout {
+  font-size: 17px;
+  text-align: center;
+}
+
+.textSize {
+  font-size: 17px;
+}
+
+.choosePoints {
+  color: aqua;
+}
+
+.brandStyle {
+  font-size: 25px;
+  margin: 0px 20px;
+  background-color: orangered;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.brandStyle:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+.hrStyle{
+  border: "2px solid white";
+   width: "50%";
+  margin-left: "25%" 
+}

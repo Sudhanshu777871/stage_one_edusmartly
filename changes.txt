@@ -1,0 +1,3 @@
+admission- section, father name and mother name
+faculty - postion
+teacher serach - not by class search

@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input[type="password"] , input[type="text"]{
+    width: 90%;
+    margin-right: 5%;
+    padding: 5px;
+    border: 1px solid grey;
+    text-indent:5px;
+}
+
+label {
+    font-size: 15px;
+    margin-left: 0;
+    margin-top: 20px;
+}
+#togglePasswordSetting{
+    margin-left: 0;
+    height: 17px;
+    width: 17px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+.mainContainerColOfPasswordChange{
+    border: 1px solid white;
+    padding: 20px 0px;
+    box-shadow: 2px 4px 5px aqua;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.secodnHeadStyle{
+    text-align: center;
+}
+.inputBoxStyle{
+    padding: 7px;
+    width: 100%;
+    border-radius: 5px;
+}
+label{
+    color: white;
+}
+.hrStyle{
+border: 2px solid white;
+width: 50%;
+margin-left: 25%;
+}

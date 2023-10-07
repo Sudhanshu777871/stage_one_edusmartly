@@ -1,0 +1,16 @@
+.newFacultyStyle{
+    left: auto;
+    right: 20px;
+    bottom: 40px;
+    position:fixed;
+    width: fit-content;
+}
+.allOptionsStyle{
+    left: 0;
+    right: 0;
+    bottom: 50px;
+    position: fixed;
+}
+.btnStyle{
+    width: 100%;
+}

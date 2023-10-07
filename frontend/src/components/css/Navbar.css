@@ -1,0 +1,23 @@
+form{
+    margin-left: 25px;
+}
+ul{
+    display: none;
+}
+.form-inline .form-control {
+    display: inline-block;
+    width: 630px;
+    vertical-align: middle;
+}
+.logoutBtn{
+color: #f0f2f4;
+font-size: 20px;
+cursor: pointer;
+}
+
+.modeStyle{
+    color: #efeff1;
+}
+.custom-switch{
+    margin: 0px 50px;
+}

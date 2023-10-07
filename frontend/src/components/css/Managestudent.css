@@ -1,0 +1,48 @@
+input[type="search"] {
+    width: 100%;
+    padding: 5px;
+    text-indent: 10px;
+    border-radius: 5px;
+}
+
+select {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.addStudentBtn {
+    width: 100%;
+}
+
+.dataShownContainer {
+    max-height: 450px;
+    overflow-y: auto;
+}
+
+.noDataFoundStyleMsg {
+    margin: 20px 0px 0px 100px;
+}
+
+.hoverStyle {
+    padding: 4px;
+    background-color: rgb(254, 254, 254);
+    border-radius: 50%;
+}
+
+.hoverStyle:hover {
+    cursor: pointer;
+}
+
+.hrStyleProfileModal {
+    width: 50%;
+
+}
+
+.mothlyFeeStyle {
+    background-color: grey;
+    color: black;
+    padding: 10px 15px;
+    margin-left: 15px;
+    border-radius: 50px;
+}

@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .hrStyle{
+    border: "2px solid white";
+  } */
+.mainHead {
+  color: orangered;
+  text-align: center;
+}
+
+.brandStyle {
+  font-size: 25px;
+  margin: 0px 10px;
+  background-color: orangered;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.brandStyle:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.socialMediaStyle {
+  left: 200px;
+  right: 0;
+  bottom: 70px;
+  position: fixed;
+}
+
+.contactIconStyle {
+  font-size: 90px;
+  color: grey;
+  margin-bottom: 30px;
+}
+
+.contentCardItms {
+  color: orangered;
+  font-size: 30;
+  font-weight: bold;
+  text-align: center;
+}
+
+.messageBtnStyle {
+  width: 80%;
+  margin-left: 10%;
+}
